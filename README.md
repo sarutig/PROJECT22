@@ -1,3 +1,4 @@
 # PROJECT22
 ADD THE INSTRUCTION
 ADD THE LICENSE FILE
+added new instructions
